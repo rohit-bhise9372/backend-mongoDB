@@ -15,7 +15,6 @@ const ProductSchema = new mongoose.Schema({
   delivery: String,
   stock: String,
   warranty: String,
-  productImageUrl: String,
 });
 
 const Product = mongoose.model("Product", ProductSchema);
