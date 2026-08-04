@@ -3,10 +3,10 @@ const mongoose = require("mongoose");
 const EmployeeSchema = new mongoose.Schema({
   employeeName: String,
   designation: String,
-  employeeId: Number,
+  employeeId: String,
   dob: Date,
   email: String,
-  phoneNumber: Number,
+  phoneNumber: String,
   address: String,
   employeeProfileImageUrl: String,
 });
