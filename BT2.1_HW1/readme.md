@@ -8,7 +8,7 @@ BE2.1_HW1/
 │   └── db.connect.js
 │
 ├── models/
-│   └── restaurant.models.js
+│   └── restaurant.model.js
 │
 ├── index.js
 ├── package.json
