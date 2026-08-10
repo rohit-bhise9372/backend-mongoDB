@@ -1,3 +1,7 @@
+
+## Project Structure
+
+```text
 BE2.1_HW1/
 │
 ├── db/
