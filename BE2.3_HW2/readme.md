@@ -1,4 +1,6 @@
+## Project Structure
 
+```text
 BE2.3_HW2/
 │
 ├── db/
@@ -11,3 +13,4 @@ BE2.3_HW2/
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
