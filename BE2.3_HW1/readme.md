@@ -1,4 +1,7 @@
-restaurant-backend/
+## Project Structure
+
+```text
+BE2.3_HW1/
 │
 ├── db/
 │   └── db.connect.js
@@ -7,9 +10,6 @@ restaurant-backend/
 │   └── restaurant.models.js
 │
 ├── index.js
-│
 ├── package.json
-│
 ├── package-lock.json
-│
 └── README.md
