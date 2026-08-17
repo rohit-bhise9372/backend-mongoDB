@@ -13,7 +13,8 @@ BE2_Assignment/
 │
 ├── index.js
 ├── package.json
-└── package-lock.json
+├── package-lock.json
+└── readme.md
 ```
 
 ## Project Overview
